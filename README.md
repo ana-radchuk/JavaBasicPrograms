@@ -37,3 +37,12 @@ AverageCalculate > code to calculate the average in array;
 CharArraytoStringArray > code to convert char array to string array;
 
 TwoMatrixAdd > code to add two matrix using two-dimensional arrays;
+
+	#JavaRecursionPrograms:
+Factorial > code to calculate factorial;
+
+NumberRecursion > code to print reverse order of an input by using recursion;
+
+PalindromeCheckRec > code to check if a string is a palindrome by using recursion;
+
+StringReverseRec > code to print string in reverse order by using recursion;
