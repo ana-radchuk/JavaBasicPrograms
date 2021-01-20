@@ -70,7 +70,7 @@ LCM > code to print the Least Common Multiple;
 
 NaturalNumsSum > code to calculate sum of the natural numbers;
 
-PerfectSquareCheck > code to check if a number is a perfect square;
+PerfectSquareCheck > code to check if number is a perfect square;
 
 PositiveNegativeCheck > code to check if number is positive or negative;
 
@@ -78,7 +78,7 @@ PrimeNumCheck > code to check if number is a prime number;
 
 PrimeNumsAlternate > code to display alternate prime numbers;
 
-PrimeNumsFrom1ToN > code to dispay prime numbers of a give range;
+PrimeNumsFrom1ToN > code to dispay prime numbers of a given range;
 
 RandomNumGenerator > code to generate random numbers;
 
