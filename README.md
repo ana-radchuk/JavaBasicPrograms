@@ -9,6 +9,12 @@ VowelOrConsonantCheck > code to check if a letter is vowel or consonant;
 
 IPAddress > code to get IP Address;
 
+Fibonacci > code to calculate Fibonacci Sequence;
+
+PascalTriangle > code to display Pascal Triangle; 
+
+FloydTriangle > code to display Floyd's Triangle;
+
 	#JavaStringBasicPrograms:
 
 BubbleSort > code for an array bubble sorting;
