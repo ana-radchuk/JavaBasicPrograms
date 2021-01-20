@@ -7,6 +7,8 @@ LeapYearCheck > code to check if year is a Leap Year;
 
 VowelOrConsonantCheck > code to check if a letter is vowel or consonant;
 
+IPAddress > code to get IP Address;
+
 	#JavaStringBasicPrograms:
 
 BubbleSort > code for an array bubble sorting;
