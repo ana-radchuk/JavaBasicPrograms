@@ -48,3 +48,41 @@ NumberRecursion > code to print reverse order of an input by using recursion;
 PalindromeCheckRec > code to check if a string is a palindrome by using recursion;
 
 StringReverseRec > code to print string in reverse order by using recursion;
+
+	#numberPrograms:
+ArmstrongCheck > code to check Armstrong number;
+
+ArmstrongRange > code to print Armstrong numbers between a given range;
+
+Bitwise > code to swap two numbers using bitwise operator;
+
+EvenNums > code to check if numbers are even;
+
+FirstPrimeNums > code to print first (n=100) prime numbers;
+
+GCD > code to calculate Greatest Common Divisor or Highest Common Factor;
+
+IntegerIntoDigitsBreak > code to break integer into digits;
+
+LargestNums > code to print the largest number;
+
+LCM > code to print the Least Common Multiple;
+
+NaturalNumsSum > code to calculate sum of the natural numbers;
+
+PerfectSquareCheck > code to check if a number is a perfect square;
+
+PositiveNegativeCheck > code to check if number is positive or negative;
+
+PrimeNumCheck > code to check if number is a prime number;
+
+PrimeNumsAlternate > code to display alternate prime numbers;
+
+PrimeNumsFrom1ToN > code to dispay prime numbers of a give range;
+
+RandomNumGenerator > code to generate random numbers;
+
+SmallestNums > code to print the smallest number;
+
+SquareRoot > code to find square without using square() method;
+
