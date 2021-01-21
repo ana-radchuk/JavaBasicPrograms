@@ -55,7 +55,7 @@ PalindromeCheckRec > code to check if a string is a palindrome by using recursio
 
 StringReverseRec > code to print string in reverse order by using recursion;
 
-	#numberPrograms:
+	#JavaNumbersBasicPrograms:
 ArmstrongCheck > code to check Armstrong number;
 
 ArmstrongRange > code to print Armstrong numbers between a given range;
@@ -92,3 +92,7 @@ SmallestNums > code to print the smallest number;
 
 SquareRoot > code to find square without using square() method;
 
+	#JavaSortingAndSearchingBasicPrograms:
+BubbleSortAscDesc > code to sort in ascending or descending order;
+
+LinearSearch > code to find an element in an array; 
