@@ -96,3 +96,8 @@ SquareRoot > code to find square without using square() method;
 BubbleSortAscDesc > code to sort in ascending or descending order;
 
 LinearSearch > code to find an element in an array; 
+
+	#JavaGUI
+GUI > code to create a simple graphic user interface;
+
+LoginForm > code to create a login form (gui);
