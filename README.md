@@ -101,3 +101,5 @@ LinearSearch > code to find an element in an array;
 GUI > code to create a simple graphic user interface;
 
 LoginForm > code to create a login form (gui);
+
+P.S.: All Programs inspired by BeginnersBook except JavaGUI, that's from Alex Lee Tutorial
